@@ -6,6 +6,9 @@ This project detects, tracks, and analyzes player movements from match videos to
 
 It is helpful for the coaches to make decision of their effective strategies in the matches.
 
+![AI Player Tracking Demo1](frame_000030.jpg)
+![AI Player Tracking Demo2](score1.mp4)
+![AI Player Tracking Demo3](score2.mp4)
 
 # 🚀 Features
 
